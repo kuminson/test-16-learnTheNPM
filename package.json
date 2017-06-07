@@ -1,0 +1,25 @@
+{
+  "name": "test-16-learnTheNPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuminson/test-16-learnTheNPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuminson/test-16-learnTheNPM/issues"
+  },
+  "homepage": "https://github.com/kuminson/test-16-learnTheNPM#readme"
+}
